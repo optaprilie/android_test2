@@ -1,0 +1,26 @@
+[
+  {
+    "employeeName": "Alice Green",
+    "employeeAge": 29,
+    "employeeCode": 1092,
+    "employeeHiringDate": "2022-03-15"
+  },
+  {
+    "employeeName": "Robert Chen",
+    "employeeAge": 45,
+    "employeeCode": 8821,
+    "employeeHiringDate": "2019-11-01"
+  },
+  {
+    "employeeName": "Sarah Miller",
+    "employeeAge": 32,
+    "employeeCode": 4403,
+    "employeeHiringDate": "2021-06-20"
+  },
+  {
+    "employeeName": "David Smith",
+    "employeeAge": 24,
+    "employeeCode": 5519,
+    "employeeHiringDate": "2023-01-10"
+  }
+]
